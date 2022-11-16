@@ -27,7 +27,7 @@ options:
 extends_documentation_fragment:
     - my_homework.my_collection.my_test_module
 author:
-    - Pavel Svitov (@psvitov)
+    - Aleksey Zakharov (@leolex)
 '''
 
 EXAMPLES = r'''
