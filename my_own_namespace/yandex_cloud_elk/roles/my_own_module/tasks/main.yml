@@ -1,0 +1,7 @@
+---
+- hosts: localhost
+  tasks:
+    - name: RUN my_own_module module
+      my_own_module:
+        path: "/tmp/file.txt"
+        content: "default content"
